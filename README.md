@@ -1,2 +1,2 @@
-# WordOfTheDayWidgetDark
-Dark mode static site
+# WordOfTheDayWidget
+Widget for word of the day for Notion
