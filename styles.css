@@ -18,6 +18,11 @@ body {
 
 #word-container {
     margin: 20px 0;
+    font-family: Playfair Display,serif;
+    font-size:6.25em;
+    letter-spacing:.03em;
+    line-height:1.33em;
+    margin:-16px 0 0;
 }
 
 #new-word-btn {
